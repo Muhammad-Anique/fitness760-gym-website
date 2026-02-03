@@ -1,0 +1,33 @@
+{
+  "name": "fitness760-gym-website",
+  "version": "1.0.0",
+  "description": "Fitness760 Gym Placeholder Website - Static HTML/CSS responsive site",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "fitness",
+    "gym",
+    "static-website",
+    "html",
+    "css",
+    "responsive"
+  ],
+  "author": "Muhammad Anique",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Muhammad-Anique/fitness760-gym-website.git"
+  },
+  "homepage": "https://github.com/Muhammad-Anique/fitness760-gym-website#readme"
+}
